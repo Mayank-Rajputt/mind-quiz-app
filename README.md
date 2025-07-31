@@ -2,8 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/)
-[![Issues](https://img.shields.io/github/issues/your-username/your-repo-name.svg)](https://github.com/your-username/your-repo-name/issues)
-
 > A sleek and engaging web-based quiz application designed to test and expand your knowledge on various topics. Log in, challenge yourself, and see how you score!
 
 **[Live Demo Link](https://your-live-demo-link.com)**
