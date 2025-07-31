@@ -4,7 +4,7 @@
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/)
 > A sleek and engaging web-based quiz application designed to test and expand your knowledge on various topics. Log in, challenge yourself, and see how you score!
 
-**[Live Demo Link](https://your-live-demo-link.com)**
+**[Live Demo Link](https://drive.google.com/file/d/1E2G-CXTPNQeLcGu0dNtGdS2idD1s7pS2/view?usp=drive_link)**
 
 ---
 
@@ -16,11 +16,11 @@ Here's a glimpse of what Mind Quiz looks like.
 
 | Dashboard | Quiz Page |
 | :---: | :---: |
-| ![Dashboard Screenshot](./screenshots/dashboard.png) | ![Quiz Page Screenshot](./screenshots/quiz.png) |
+| ![Dashboard Screenshot](./screenshots/ss3.png) | ![Quiz Page Screenshot](./screenshots/ss4.png) |
 
 | Login Page | Create Account Page |
 | :---: | :---: |
-| ![Login Screenshot](./screenshots/login.png) | ![Sign Up Screenshot](./screenshots/signup.png) |
+| ![Login Screenshot](./screenshots/ss1.png) | ![Sign Up Screenshot](./screenshots/ss2.png) |
 
 ---
 
@@ -113,8 +113,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📬 Contact
 
-Mayank Rana - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) - your-email@example.com
+Mayank Rana - [LinkedIn](https://www.linkedin.com/in/mayank-rana9368/) - mayankrajputana9@gmail.com
 
-Project Link: [https://github.com/your-username/your-repo-name](https://github.com/your-username/your-repo-name)
+Project Link: [Mind Quiz Web Application](https://github.com/Mayank-Rajputt/mind-quiz-app)
 
 ---
