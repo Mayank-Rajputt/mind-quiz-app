@@ -12,7 +12,6 @@
 
 Here's a glimpse of what Mind Quiz looks like.
 
-*(To use this method, create a folder named `screenshots` in your repository, add your image files to it, and then commit the changes. The paths below will then work automatically.)*
 
 | Dashboard | Quiz Page |
 | :---: | :---: |
