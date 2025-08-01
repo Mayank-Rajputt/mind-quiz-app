@@ -1,9 +1,4 @@
 <?php
-/**
- * Simplified Navbar - FINAL
- * This version only contains the logo, main navigation links, and Daily Challenge button.
- * ADDED: Theme switcher is now part of the navbar.
- */
 
 $current_page = basename($_SERVER['SCRIPT_NAME']);
 
